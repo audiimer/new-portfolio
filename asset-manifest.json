@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/new-portfolio/static/css/main.5989f61e.css",
-    "main.js": "/new-portfolio/static/js/main.d833b34c.js",
-    "static/media/first-portfolio.png": "/new-portfolio/static/media/first-portfolio.d6a625f8f111d5cd33b4.png",
-    "static/media/palindrome.png": "/new-portfolio/static/media/palindrome.77e00ce21293eac672bf.png",
-    "static/media/vending-machine.png": "/new-portfolio/static/media/vending-machine.942f00ffbd654e53aa7f.png",
+    "main.css": "/new-portfolio/static/css/main.30c48843.css",
+    "main.js": "/new-portfolio/static/js/main.5c244bb6.js",
+    "static/media/first-portfolio.png": "/new-portfolio/static/media/first-portfolio.1bff3254ed2f3cf7a6a8.png",
+    "static/media/palindrome.png": "/new-portfolio/static/media/palindrome.a47f128ec2ba75ea5df0.png",
+    "static/media/vending-machine.png": "/new-portfolio/static/media/vending-machine.932aed0c9f424af95bca.png",
     "static/media/amercadoresume.pdf": "/new-portfolio/static/media/amercadoresume.b09aef9afc6ed1f6ead3.pdf",
     "static/media/profilepic.jpg": "/new-portfolio/static/media/profilepic.cce35a55674c5f7faa33.jpg",
     "static/media/intropic.jpg": "/new-portfolio/static/media/intropic.6319f38596adbbe41ed7.jpg",
-    "static/media/google-drive-download.png": "/new-portfolio/static/media/google-drive-download.07ebc1b5c263c46769e7.png",
-    "static/media/todo-list.png": "/new-portfolio/static/media/todo-list.e9b61e9e6e1f6ef3654e.png",
-    "static/media/tic-tac-toe.png": "/new-portfolio/static/media/tic-tac-toe.9e875181ba880a64f99e.png",
+    "static/media/google-drive-download.png": "/new-portfolio/static/media/google-drive-download.8513e1755338f926e518.png",
+    "static/media/todo-list.png": "/new-portfolio/static/media/todo-list.fa862d9b652b84e79aa2.png",
+    "static/media/tic-tac-toe.png": "/new-portfolio/static/media/tic-tac-toe.c12d96c23d2d286db8c3.png",
     "index.html": "/new-portfolio/index.html",
-    "main.5989f61e.css.map": "/new-portfolio/static/css/main.5989f61e.css.map",
-    "main.d833b34c.js.map": "/new-portfolio/static/js/main.d833b34c.js.map"
+    "main.30c48843.css.map": "/new-portfolio/static/css/main.30c48843.css.map",
+    "main.5c244bb6.js.map": "/new-portfolio/static/js/main.5c244bb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5989f61e.css",
-    "static/js/main.d833b34c.js"
+    "static/css/main.30c48843.css",
+    "static/js/main.5c244bb6.js"
   ]
 }
