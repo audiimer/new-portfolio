@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/new-portfolio/static/css/main.826b49c6.css",
+    "main.css": "/new-portfolio/static/css/main.038ce2da.css",
     "main.js": "/new-portfolio/static/js/main.2c0a1a92.js",
     "static/media/first-portfolio.png": "/new-portfolio/static/media/first-portfolio.d8b1f5a65c3d096cf06c.png",
     "static/media/palindrome.png": "/new-portfolio/static/media/palindrome.f1b2d19a116eac136460.png",
@@ -13,11 +13,11 @@
     "static/media/SF_Burlington_Script_Bold-webfont.woff": "/new-portfolio/static/media/SF_Burlington_Script_Bold-webfont.2127e72fa275210c5fa5.woff",
     "static/media/tic-tac-toe.png": "/new-portfolio/static/media/tic-tac-toe.3631e03bd54980aae5e6.png",
     "index.html": "/new-portfolio/index.html",
-    "main.826b49c6.css.map": "/new-portfolio/static/css/main.826b49c6.css.map",
+    "main.038ce2da.css.map": "/new-portfolio/static/css/main.038ce2da.css.map",
     "main.2c0a1a92.js.map": "/new-portfolio/static/js/main.2c0a1a92.js.map"
   },
   "entrypoints": [
-    "static/css/main.826b49c6.css",
+    "static/css/main.038ce2da.css",
     "static/js/main.2c0a1a92.js"
   ]
 }
