@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.ee85a552.css",
-    "main.js": "/new-portfolio/static/js/main.9262d309.js",
+    "main.js": "/new-portfolio/static/js/main.f2a1250c.js",
     "static/media/first-portfolio.png": "/new-portfolio/static/media/first-portfolio.d8b1f5a65c3d096cf06c.png",
     "static/media/palindrome.png": "/new-portfolio/static/media/palindrome.f1b2d19a116eac136460.png",
+    "static/media/calculator.png": "/new-portfolio/static/media/calculator.796c5c7c520d5d14b43e.png",
     "static/media/vending-machine.png": "/new-portfolio/static/media/vending-machine.76638279fa8cd3b4021b.png",
     "static/media/amercadoresume.pdf": "/new-portfolio/static/media/amercadoresume.83a374eb29d5972891ee.pdf",
     "static/media/profilepic.jpg": "/new-portfolio/static/media/profilepic.cce35a55674c5f7faa33.jpg",
@@ -14,10 +15,10 @@
     "static/media/tic-tac-toe.png": "/new-portfolio/static/media/tic-tac-toe.3631e03bd54980aae5e6.png",
     "index.html": "/new-portfolio/index.html",
     "main.ee85a552.css.map": "/new-portfolio/static/css/main.ee85a552.css.map",
-    "main.9262d309.js.map": "/new-portfolio/static/js/main.9262d309.js.map"
+    "main.f2a1250c.js.map": "/new-portfolio/static/js/main.f2a1250c.js.map"
   },
   "entrypoints": [
     "static/css/main.ee85a552.css",
-    "static/js/main.9262d309.js"
+    "static/js/main.f2a1250c.js"
   ]
 }
